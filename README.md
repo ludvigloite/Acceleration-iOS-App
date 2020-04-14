@@ -1,5 +1,7 @@
 # Acceleration
 
+![Startpage](https://github.com/ludvigloite/Acceleration-iOS-App/blob/master/images/startpage.png)
+
 This game was made in 2018. It is not released to the open market.
 
 ## How to play:
